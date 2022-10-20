@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426fc4fad68aea749a31bf479e4bae89, type: 3}
+  m_Name: spell_Element_Earth
+  m_EditorClassIdentifier: 
+  ElementName: Earth
+  Tier: 1
+  damage: 5
+  damageMultiplier: 1
+  dot: 0
+  dotMultiplier: 0
+  slow: 0
+  slowMultiplier: 0
+  stun: 3
+  stunMultiplier: 1
+  effectDuration: 4
+  spellMainColor: {r: 0.3216912, g: 0.625, b: 0.3363337, a: 1}
+  spellSecColor: {r: 0.08235294, g: 0.2784314, b: 0.047058824, a: 0.509}
+  Description: The Earth Element is the fondation of stunning. Spells of this Element
+    will inflict 5dmg while stunning the enemy for 3s.

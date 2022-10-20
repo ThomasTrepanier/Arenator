@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf12a6f59852d14698c4c24c17beefe, type: 3}
+  m_Name: spell_Type_Slash
+  m_EditorClassIdentifier: 
+  Spell: {fileID: 1484159898719294, guid: 8a09ce925efa7ab47ac1c85334f3fa0f, type: 2}
+  attName: Slash
+  Icon: {fileID: 21300000, guid: 5ac85899dcfaa4f4a8dc045e9da12f06, type: 3}
+  Tier: 2
+  speed: 0
+  speedMultiplier: 1
+  sizeMultiplier: 1
+  lifetimeMultiplier: 1
+  Cooldown: 6
+  projectile: 1
+  Cast_Sound: {fileID: 8300000, guid: db58848a47764d044b0a813f91ef7337, type: 3}
+  Description: The Slash ability will penetrate and slice everything on its path.
+    It will traverse enemies as it goes. Its cooldown is 6s.

@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 5cbd15526313b6b40b52bf5bb5fa5b13
+timeCreated: 1526936902
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wall_LOD0
+    100004: Wall_LOD0.000
+    100006: Wall_LOD0.001
+    100008: Wall_LOD0.002
+    100010: Wall_LOD0.003
+    100012: Wall_LOD0.004
+    100014: Wall_LOD0_MeshPart0
+    100016: Wall_LOD0_MeshPart1
+    100018: Wall_LOD0_MeshPart2
+    100020: Wall_LOD0_MeshPart3
+    100022: Wall_LOD1
+    100024: Wall_LOD1.006
+    100026: Wall_LOD1.007
+    100028: Wall_LOD1.008
+    100030: Wall_LOD1.009
+    100032: Wall_LOD1.010
+    100034: Wall_LOD1_MeshPart0
+    100036: Wall_LOD1_MeshPart1
+    100038: Wall_LOD2
+    100040: Wall_LOD2.001
+    100042: Wall_LOD2.002
+    100044: Wall_LOD2.003
+    100046: Wall_LOD2.004
+    100048: Wall_LOD2.005
+    100050: Wall_LOD3
+    100052: Wall_LOD3.001
+    100054: Wall_LOD3.002
+    100056: Wall_LOD3.003
+    100058: Wall_LOD3.004
+    100060: Wall_LOD3.005
+    400000: //RootNode
+    400002: Wall_LOD0
+    400004: Wall_LOD0.000
+    400006: Wall_LOD0.001
+    400008: Wall_LOD0.002
+    400010: Wall_LOD0.003
+    400012: Wall_LOD0.004
+    400014: Wall_LOD0_MeshPart0
+    400016: Wall_LOD0_MeshPart1
+    400018: Wall_LOD0_MeshPart2
+    400020: Wall_LOD0_MeshPart3
+    400022: Wall_LOD1
+    400024: Wall_LOD1.006
+    400026: Wall_LOD1.007
+    400028: Wall_LOD1.008
+    400030: Wall_LOD1.009
+    400032: Wall_LOD1.010
+    400034: Wall_LOD1_MeshPart0
+    400036: Wall_LOD1_MeshPart1
+    400038: Wall_LOD2
+    400040: Wall_LOD2.001
+    400042: Wall_LOD2.002
+    400044: Wall_LOD2.003
+    400046: Wall_LOD2.004
+    400048: Wall_LOD2.005
+    400050: Wall_LOD3
+    400052: Wall_LOD3.001
+    400054: Wall_LOD3.002
+    400056: Wall_LOD3.003
+    400058: Wall_LOD3.004
+    400060: Wall_LOD3.005
+    2300000: Wall_LOD0.000
+    2300002: Wall_LOD0.001
+    2300004: Wall_LOD0.002
+    2300006: Wall_LOD0.003
+    2300008: Wall_LOD0.004
+    2300010: Wall_LOD0_MeshPart0
+    2300012: Wall_LOD0_MeshPart1
+    2300014: Wall_LOD0_MeshPart2
+    2300016: Wall_LOD0_MeshPart3
+    2300018: Wall_LOD1.006
+    2300020: Wall_LOD1.007
+    2300022: Wall_LOD1.008
+    2300024: Wall_LOD1.009
+    2300026: Wall_LOD1.010
+    2300028: Wall_LOD1_MeshPart0
+    2300030: Wall_LOD1_MeshPart1
+    2300032: Wall_LOD2
+    2300034: Wall_LOD2.001
+    2300036: Wall_LOD2.002
+    2300038: Wall_LOD2.003
+    2300040: Wall_LOD2.004
+    2300042: Wall_LOD2.005
+    2300044: Wall_LOD3
+    2300046: Wall_LOD3.001
+    2300048: Wall_LOD3.002
+    2300050: Wall_LOD3.003
+    2300052: Wall_LOD3.004
+    2300054: Wall_LOD3.005
+    3300000: Wall_LOD0.000
+    3300002: Wall_LOD0.001
+    3300004: Wall_LOD0.002
+    3300006: Wall_LOD0.003
+    3300008: Wall_LOD0.004
+    3300010: Wall_LOD0_MeshPart0
+    3300012: Wall_LOD0_MeshPart1
+    3300014: Wall_LOD0_MeshPart2
+    3300016: Wall_LOD0_MeshPart3
+    3300018: Wall_LOD1.006
+    3300020: Wall_LOD1.007
+    3300022: Wall_LOD1.008
+    3300024: Wall_LOD1.009
+    3300026: Wall_LOD1.010
+    3300028: Wall_LOD1_MeshPart0
+    3300030: Wall_LOD1_MeshPart1
+    3300032: Wall_LOD2
+    3300034: Wall_LOD2.001
+    3300036: Wall_LOD2.002
+    3300038: Wall_LOD2.003
+    3300040: Wall_LOD2.004
+    3300042: Wall_LOD2.005
+    3300044: Wall_LOD3
+    3300046: Wall_LOD3.001
+    3300048: Wall_LOD3.002
+    3300050: Wall_LOD3.003
+    3300052: Wall_LOD3.004
+    3300054: Wall_LOD3.005
+    4300000: Wall_LOD3
+    4300002: Wall_LOD3.005
+    4300004: Wall_LOD3.004
+    4300006: Wall_LOD3.003
+    4300008: Wall_LOD3.002
+    4300010: Wall_LOD3.001
+    4300012: Wall_LOD2
+    4300014: Wall_LOD2.004
+    4300016: Wall_LOD2.005
+    4300018: Wall_LOD2.003
+    4300020: Wall_LOD2.002
+    4300022: Wall_LOD2.001
+    4300024: Wall_LOD1_MeshPart0
+    4300026: Wall_LOD1_MeshPart1
+    4300028: Wall_LOD1.010
+    4300030: Wall_LOD1.009
+    4300032: Wall_LOD1.008
+    4300034: Wall_LOD1.007
+    4300036: Wall_LOD1.006
+    4300038: Wall_LOD0_MeshPart0
+    4300040: Wall_LOD0_MeshPart1
+    4300042: Wall_LOD0_MeshPart2
+    4300044: Wall_LOD0_MeshPart3
+    4300046: Wall_LOD0.000
+    4300048: Wall_LOD0.002
+    4300050: Wall_LOD0.003
+    4300052: Wall_LOD0.004
+    4300054: Wall_LOD0.001
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

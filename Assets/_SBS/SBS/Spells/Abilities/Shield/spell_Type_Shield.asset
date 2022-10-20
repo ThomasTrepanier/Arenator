@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf12a6f59852d14698c4c24c17beefe, type: 3}
+  m_Name: spell_Type_Shield
+  m_EditorClassIdentifier: 
+  Spell: {fileID: 1169703092848586, guid: 39599e0a5dec92e47acb2e34a0391850, type: 2}
+  attName: Shield
+  Icon: {fileID: 21300000, guid: 4fd9a15cc1040284490db5a2acfb79fb, type: 3}
+  Tier: 1
+  speed: 0
+  speedMultiplier: 0
+  sizeMultiplier: 1
+  lifetimeMultiplier: 1
+  Cooldown: 8
+  projectile: 1
+  Cast_Sound: {fileID: 8300000, guid: 6ca5b891959473f4abd1cd5fc4ead013, type: 3}
+  Description: The Shield ability will protect you from any incoming damage. It will
+    also inflict damage to enemies too close to you. Its cooldown is 6s.

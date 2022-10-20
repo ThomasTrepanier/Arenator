@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426fc4fad68aea749a31bf479e4bae89, type: 3}
+  m_Name: spell_Element_Ice
+  m_EditorClassIdentifier: 
+  ElementName: Ice
+  Tier: 2
+  damage: 18
+  damageMultiplier: 1
+  dot: 5
+  dotMultiplier: 1
+  slow: 0.7
+  slowMultiplier: 1
+  stun: 0
+  stunMultiplier: 0
+  effectDuration: 10
+  spellMainColor: {r: 0.09191176, g: 0.7086716, b: 0.7352941, a: 1}
+  spellSecColor: {r: 0.64716697, g: 0.97794116, b: 0.97794116, a: 0.578}
+  Description: The Ice Element combines damage and a massive slow. Spells of this
+    element will inflict 18dmg with a DOT of 5dmg/s and will slow the enemy by 70%
+    for 10s.

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426fc4fad68aea749a31bf479e4bae89, type: 3}
+  m_Name: spell_Element_Fire
+  m_EditorClassIdentifier: 
+  ElementName: Fire
+  Tier: 1
+  damage: 10
+  damageMultiplier: 1
+  dot: 2
+  dotMultiplier: 1
+  slow: 0
+  slowMultiplier: 0
+  stun: 0
+  stunMultiplier: 0
+  effectDuration: 5
+  spellMainColor: {r: 1, g: 0.22758621, b: 0, a: 1}
+  spellSecColor: {r: 0.9191176, g: 0.75747967, b: 0.2297794, a: 0.553}
+  Description: The Fire Element is reckless, impulsive. Spells of this element will
+    deal 10dmg and a DOT of 2dmg/s will be applied for 5s.

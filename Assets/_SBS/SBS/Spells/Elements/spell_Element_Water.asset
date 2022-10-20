@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426fc4fad68aea749a31bf479e4bae89, type: 3}
+  m_Name: spell_Element_Water
+  m_EditorClassIdentifier: 
+  ElementName: Water
+  Tier: 1
+  damage: 7
+  damageMultiplier: 1
+  dot: 0
+  dotMultiplier: 0
+  slow: 0.2
+  slowMultiplier: 1
+  stun: 0
+  stunMultiplier: 0
+  effectDuration: 6
+  spellMainColor: {r: 0, g: 0.13103437, b: 1, a: 1}
+  spellSecColor: {r: 0.28595373, g: 0.648498, b: 0.9044118, a: 0.522}
+  Description: The Water Element is essential to control your enemies movement. Spells
+    of this element will deal 7dmg and slow enemies by 20% for 6s.

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf12a6f59852d14698c4c24c17beefe, type: 3}
+  m_Name: spell_Type_Armageddon
+  m_EditorClassIdentifier: 
+  Spell: {fileID: 1810604789791130, guid: 67f2b60280af4584b8a8a982234c2aa1, type: 2}
+  attName: Armageddon
+  Icon: {fileID: 21300000, guid: 08a04fdeb31f6bd4c8b228dc4d855819, type: 3}
+  Tier: 3
+  speed: 0
+  speedMultiplier: 1
+  sizeMultiplier: 1
+  lifetimeMultiplier: 1
+  Cooldown: 1
+  projectile: 1
+  Cast_Sound: {fileID: 8300000, guid: 5158fe75501906545a0e462452ef7fc8, type: 3}
+  Description: The Armageddon is the most powerful ability there is. It will blast
+    everything around you in a large radius, effectively annihilating all life form.
+    Use with precaution. Its cooldown is 15s.

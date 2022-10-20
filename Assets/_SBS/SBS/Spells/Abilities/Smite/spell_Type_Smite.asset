@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf12a6f59852d14698c4c24c17beefe, type: 3}
+  m_Name: spell_Type_Smite
+  m_EditorClassIdentifier: 
+  Spell: {fileID: 1531122092187238, guid: c51b18e5d72b2184f98d66b3c842d90d, type: 2}
+  attName: Smite
+  Icon: {fileID: 21300000, guid: 2af3777125efb8a4b9f672b080e69005, type: 3}
+  Tier: 1
+  speed: 0
+  speedMultiplier: 1
+  sizeMultiplier: 1
+  lifetimeMultiplier: 1
+  Cooldown: 0.5
+  projectile: 0
+  Cast_Sound: {fileID: 8300000, guid: 169e804a019683c458fdeaa9b357f53f, type: 3}
+  Description: The Smite ability will invoke a beam from the sky, damaging enemies
+    in its small radius. Its cooldown is 0.5s.

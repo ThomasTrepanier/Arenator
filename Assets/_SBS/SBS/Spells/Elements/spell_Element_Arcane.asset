@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426fc4fad68aea749a31bf479e4bae89, type: 3}
+  m_Name: spell_Element_Arcane
+  m_EditorClassIdentifier: 
+  ElementName: Arcane
+  Tier: 3
+  damage: 50
+  damageMultiplier: 1
+  dot: 10
+  dotMultiplier: 1
+  slow: 0.5
+  slowMultiplier: 1
+  stun: 5
+  stunMultiplier: 1
+  effectDuration: 10
+  spellMainColor: {r: 0.7732444, g: 0.47215614, b: 0.9044118, a: 1}
+  spellSecColor: {r: 0.60784316, g: 0.14117648, b: 0.95686275, a: 0.566}
+  Description: The Arcane Element is the most powerful of all. Spells of this element
+    will deal 50dmg with a DOT of 10dmg/s while stunning for 5s, then slowing your
+    enemy by 50% for 10s.
